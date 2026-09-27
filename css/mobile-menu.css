@@ -42,6 +42,8 @@
   padding: 0;
   border: none;
   background-color: transparent;
+  border: 1px solid #e7e9fc;
+  border-radius: 50%;
 }
 
 .mobile-menu-close-icon,
@@ -110,6 +112,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #434455;
+  font-weight: 500;
 }
 
 .mobile-menu-social-list {

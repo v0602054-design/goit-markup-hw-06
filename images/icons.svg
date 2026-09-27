@@ -6,6 +6,12 @@
                 <clipPath id="clip0_1082821_67">
                     <rect fill="#fff" width="16" height="16" />
                 </clipPath>
+                <symbol id="icon-menu" viewBox="0 0 24 24">
+  <path
+    fill="currentColor"
+    d="M3 5H21V7H3V5ZM3 11H21V13H3V11ZM3 17H21V19H3V17Z"
+  />
+</symbol>
             </defs>
         </symbol>
         <symbol id="linkedin" viewBox="0 0 16 16" fill="none">
